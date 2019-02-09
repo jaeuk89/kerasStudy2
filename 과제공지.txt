@@ -7,5 +7,7 @@
     rmse, r2
   3) activation, loss, optimaizer 함수 정리  
     
-    
+  개인 :
+   1) 주호세 : model.summary() // lstm 파람 갯수 파악
+   2) 이승수 : R2, RMSE 설명
     
