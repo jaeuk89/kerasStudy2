@@ -5,6 +5,7 @@
   2) 다중입력-2
     concatenate 사용할것
     rmse, r2
+  3) activation, loss, optimaizer 함수 정리  
     
     
     
