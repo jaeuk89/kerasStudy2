@@ -11,3 +11,11 @@
    1) 주호세 : model.summary() // lstm 파람 갯수 파악
    2) 이승수 : R2, RMSE 설명
     
+
+2주차 (20190216)
+
+  개인 :
+    1) 주호세 : adamax와 adam 차이점
+                he_uniform 설명
+                
+                
