@@ -21,5 +21,5 @@
   개인 :
     1) 주호세 : adamax와 adam 차이점
                 he_uniform 설명
-                
+    2) 정세훈 : weight값을 찾는 방법            
                 
