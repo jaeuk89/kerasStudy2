@@ -17,10 +17,10 @@
     1-10, 101-110, 1001-1100 까지 입력.
   2) tensorboard 적용
   3) 모델을 save하고, load하여 2개의 파일로 제출.
-  4) antander Customer Transaction Prediction 에 제출.
+  4) Santander Customer Transaction Prediction 에 제출.
   
   개인 :
     1) 주호세 : adamax와 adam 차이점
                 he_uniform 설명
     2) 정세훈 : weight값을 찾는 방법            
-                
+    3) 송해석 : 캐글 Santander 데이터의 컬럼 분석(어떤 데이터들인지 전체적으로 간략히 분석, A4지 반장이상 넘지 않을것)                
